@@ -1,7 +1,7 @@
 const products = [
-  { id: 1, name: 'Футболка', price: 500 },
-  { id: 2, name: 'Кепка', price: 300 },
-  { id: 3, name: 'Чашка', price: 150 },
+  { id: 1, name: 'Martynov_Serhii', price: 999 },
+  { id: 2, name: 'Shafunov_Bogdan', price: 199 },
+  { id: 3, name: 'Пенсил Дилары', price: 350 },
 ];
 
 const productList = document.getElementById('product-list');
